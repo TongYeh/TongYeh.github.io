@@ -8,6 +8,7 @@ CISSP Glossary
 
 Gartner
 > is based on an IP standard that is capable of transporting voice and data packets over the same network. Unlike circuit-switched networks, IP doesn’t require a dedicated connection for an entire call. Voice signals are converted to packets that are sent across the network and reassembled in the correct order when they reach their destination. VoIP services can be deployed over the Internet or private IP networks (LAN/WLAN).
+
 | ChatGPT  | Gemini |
 |-----|:-----:|       
 |เป็นเทคโนโลยีที่อิงตามมาตรฐาน IP ซึ่งสามารถส่งสัญญาณเสียงและข้อมูลผ่านเครือข่ายเดียวกันได้ ไม่เหมือนกับเครือข่ายแบบวงจรสวิตช์ (circuit-switched networks) ที่ต้องการการเชื่อมต่อเฉพาะตลอดระยะเวลาของการโทร สัญญาณเสียงในระบบ VoIP จะถูกแปลงเป็นแพ็กเก็ตข้อมูลและส่งผ่านเครือข่าย จากนั้นจึงประกอบกลับเป็นลำดับที่ถูกต้องเมื่อไปถึงปลายทาง บริการ VoIP สามารถใช้งานได้ทั้งผ่านอินเทอร์เน็ตหรือเครือข่าย IP ส่วนตัว (LAN/WLAN)|เทคโนโลยีนี้ใช้มาตรฐาน IP ซึ่งสามารถส่งผ่านทั้งเสียงและข้อมูลในรูปแบบแพ็กเก็ตบนเครือข่ายเดียวกัน  แตกต่างจากเครือข่ายแบบสวิตช์วงจร  IP ไม่จำเป็นต้องใช้การเชื่อมต่อเฉพาะสำหรับการโทรทั้งหมด  สัญญาณเสียงจะถูกแปลงเป็นแพ็กเก็ตที่ส่งผ่านเครือข่ายและประกอบเข้าด้วยกันตามลำดับที่ถูกต้องเมื่อถึงปลายทาง  บริการ VoIP สามารถใช้งานได้ทั้งบนอินเทอร์เน็ตและเครือข่าย IP ส่วนตัว (LAN/WLAN)|
