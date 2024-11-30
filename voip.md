@@ -36,8 +36,8 @@ Gartner
 |[CISSP Glossary](https://www.isc2.org/certifications/cissp/cissp-student-glossary#v)|
 |-----|
 |[Gartner](https://www.gartner.com/en/information-technology/glossary/voice-over-internet-protocol-voip)|
-|ChatGPT|
-|Gemini|
+|[ChatGPT]|
+|[Gemini]|
   
 
 # Members
