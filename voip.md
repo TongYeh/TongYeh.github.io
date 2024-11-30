@@ -23,11 +23,13 @@ Gartner
 จากคำนิยามของ Voice over Internet Protocol (VoIP) ที่ได้ศึกษามาจากแหล่งข้อมูล 2 แหล่ง จึงสรุปความได้ว่า
 > Voice over Internet Protocol (VoIP) คือเทคโนโลยีที่ใช้ในการส่งสัญญาณเสียงและข้อมูลในรูปแบบแพ็กเก็ตผ่านเครือข่ายเดียวกัน โดยไม่ต้องใช้การเชื่อมต่อเฉพาะเหมือนกับระบบโทรศัพท์เดิม (circuit-switched networks) ซึ่งสามารถช่วยให้โทรออกด้วยเสียงผ่านอินเทอร์เน็ตความเร็วสูงแทนการใช้สายโทรศัพท์แบบปกติหรือแบบอะนาล็อกได้
 
+
 # Sample in Daily Life
 - เกมออนไลน์
     - เกมเมอร์ใช้ VoIP ในการพูดคุยระหว่างเล่นเกมผ่านแพลตฟอร์มอย่าง Discord หรือในเกมที่มีฟังก์ชัน Voice Chat
 - การประชุมออนไลน์
     - การประชุมผ่านแพลตฟอร์มที่ใช้ VoIP ช่วยให้สามารถสื่อสารเสียงและวิดีโอได้ในเวลาเดียวกัน เช่น การประชุมทางไกล
+
 
 # Reference
 |[CISSP Glossary](https://www.isc2.org/certifications/cissp/cissp-student-glossary#v)|
@@ -36,6 +38,7 @@ Gartner
 |ChatGPT|
 |Gemini|
   
+
 # Members
 - [6530200657 Thawanrat Phithak](https://TongYeh.github.io/voip)
 - [6530200746 Phetcharat Tongluan](https://Nibkekie.github.io/voip)
