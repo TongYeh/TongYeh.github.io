@@ -1,4 +1,4 @@
 # TongYeh.github.io 
-![Tong.png](./img/137182.jpg)
+![Tong.png](./137182.jpg)
 - Thawanrat
   - Tong
