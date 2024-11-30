@@ -31,6 +31,7 @@ Gartner
 
 # แหล่งที่มา
 |[CISSP Glossary](https://www.isc2.org/certifications/cissp/cissp-student-glossary#v)|
+|-----|
 |Gartner|
 |ChatGPT|
 |Gemini|
