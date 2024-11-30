@@ -1,6 +1,7 @@
 # Voice over Internet Protocol (VoIP)
 > CISSP Glossary
 > Is a technology that allows you to make voice calls using a broadband internet connection instead of a regular (or analog) phone line.
+
 | ChatGPT  | Gemini |
 |-----|:-----:|       
 |เป็นเทคโนโลยีที่ช่วยให้คุณสามารถโทรด้วยเสียงผ่านการเชื่อมต่ออินเทอร์เน็ตความเร็วสูง (Broadband) แทนการใช้สายโทรศัพท์แบบปกติ (หรือแบบแอนะล็อก)| เทคโนโลยีที่ช่วยให้คุณสามารถโทรออกด้วยเสียงผ่านทางอินเทอร์เน็ตความเร็วสูง แทนที่จะใช้สายโทรศัพท์แบบปกติ (หรือแบบอะนาล็อก)|
