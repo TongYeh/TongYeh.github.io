@@ -7,7 +7,7 @@ CISSP Glossary
 |เป็นเทคโนโลยีที่ช่วยให้คุณสามารถโทรด้วยเสียงผ่านการเชื่อมต่ออินเทอร์เน็ตความเร็วสูง (Broadband) แทนการใช้สายโทรศัพท์แบบปกติ (หรือแบบแอนะล็อก)| เทคโนโลยีที่ช่วยให้คุณสามารถโทรออกด้วยเสียงผ่านทางอินเทอร์เน็ตความเร็วสูง แทนที่จะใช้สายโทรศัพท์แบบปกติ (หรือแบบอะนาล็อก)|
 
 Gartner
-> is based on an IP standard that is capable of transporting voice and data packets over the same network. Unlike circuit-switched networks, IP doesn’t require a dedicated connection for an entire call. Voice signals are converted to packets that are sent across the network and reassembled in the correct order when they reach their destination. VoIP services can be deployed over the Internet or private IP networks (LAN/WLAN).
+    is based on an IP standard that is capable of transporting voice and data packets over the same network. Unlike circuit-switched networks, IP doesn’t require a dedicated connection for an entire call. Voice signals are converted to packets that are sent across the network and reassembled in the correct order when they reach their destination. VoIP services can be deployed over the Internet or private IP networks (LAN/WLAN).
 
 | ChatGPT  | Gemini |
 |-----|:-----:|       
