@@ -1,4 +1,6 @@
 # Voice over Internet Protocol (VoIP)
+
+
 CISSP Glossary
 > Is a technology that allows you to make voice calls using a broadband internet connection instead of a regular (or analog) phone line.
 
@@ -6,8 +8,10 @@ CISSP Glossary
 |-----|:-----:|       
 |เป็นเทคโนโลยีที่ช่วยให้คุณสามารถโทรด้วยเสียงผ่านการเชื่อมต่ออินเทอร์เน็ตความเร็วสูง (Broadband) แทนการใช้สายโทรศัพท์แบบปกติ (หรือแบบแอนะล็อก)| เทคโนโลยีที่ช่วยให้คุณสามารถโทรออกด้วยเสียงผ่านทางอินเทอร์เน็ตความเร็วสูง แทนที่จะใช้สายโทรศัพท์แบบปกติ (หรือแบบอะนาล็อก)|
 
+
+
 Gartner
-    is based on an IP standard that is capable of transporting voice and data packets over the same network. Unlike circuit-switched networks, IP doesn’t require a dedicated connection for an entire call. Voice signals are converted to packets that are sent across the network and reassembled in the correct order when they reach their destination. VoIP services can be deployed over the Internet or private IP networks (LAN/WLAN).
+> is based on an IP standard that is capable of transporting voice and data packets over the same network. Unlike circuit-switched networks, IP doesn’t require a dedicated connection for an entire call. Voice signals are converted to packets that are sent across the network and reassembled in the correct order when they reach their destination. VoIP services can be deployed over the Internet or private IP networks (LAN/WLAN).
 
 | ChatGPT  | Gemini |
 |-----|:-----:|       
@@ -15,10 +19,14 @@ Gartner
 
 
 
-# สรุป
+# Mysalf
     จากคำนิยามของ Voice over Internet Protocol (VoIP) ที่ได้ศึกษามาจากแหล่งข้อมูล 3 แหล่ง จึงสรุปความได้ว่า
-> Voice over Internet Protocol (VoIP) คือเทคโนโลยีการสื่อสารเสียงผ่านโครงข่ายอินเทอร์เน็ต
-หรือเครือข่าย IP โดยสัญญาณเสียงจะถูกแปลงเป็นข้อมูลในรูปแบบแพ็กเก็ตและส่งผ่านเครือข่ายร่วมกับข้อมูลอื่นๆ แทนการใช้วงจรเฉพาะแบบโทรศัพท์ดั้งเดิม ซึ่งช่วยเพิ่มประสิทธิภาพการใช้เครือข่ายและลดค่าใช้จ่าย บริการ VoIP สามารถใช้งานผ่านอินเทอร์เน็ตหรือเครือข่ายส่วนตัว (LAN/WLAN) โดยมีข้อดีคือค่าบริการถูกลงและใช้งานโครงข่ายได้อย่างยืดหยุ่น
+> Voice over Internet Protocol (VoIP) คือเทคโนโลยีที่ใช้ในการส่งสัญญาณเสียงและข้อมูลในรูปแบบแพ็กเก็ตผ่านเครือข่ายเดียวกัน โดยไม่ต้องใช้การเชื่อมต่อเฉพาะเหมือนกับระบบโทรศัพท์เดิม (circuit-switched networks) ซึ่งสามารถช่วยให้โทรออกด้วยเสียงผ่านอินเทอร์เน็ตความเร็วสูงแทนการใช้สายโทรศัพท์แบบปกติหรือแบบอะนาล็อกได้
+# Sample in Daily Life
+    - เกมออนไลน์
+      - เกมเมอร์ใช้ VoIP ในการพูดคุยระหว่างเล่นเกมผ่านแพลตฟอร์มอย่าง Discord หรือในเกมที่มีฟังก์ชัน Voice Chat
+    - การประชุมออนไลน์
+      - การประชุมผ่านแพลตฟอร์มที่ใช้ VoIP ช่วยให้สามารถสื่อสารเสียงและวิดีโอได้ในเวลาเดียวกัน เช่น การประชุมทางไกล
 # Members
 - 6530200657 Thawanrat Phithak
 - 6530200746 Phetcharat Tongluan
