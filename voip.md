@@ -28,7 +28,7 @@ Gartner
 - การประชุมออนไลน์
     - การประชุมผ่านแพลตฟอร์มที่ใช้ VoIP ช่วยให้สามารถสื่อสารเสียงและวิดีโอได้ในเวลาเดียวกัน เช่น การประชุมทางไกล
 # Members
-- 6530200657 Thawanrat Phithak
+- [6530200657 Thawanrat Phithak](https://TongYeh.github.io/voip)
 - [6530200746 Phetcharat Tongluan](https://Nibkekie.github.io/voip)
 
 
