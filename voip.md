@@ -28,7 +28,12 @@ Gartner
     - เกมเมอร์ใช้ VoIP ในการพูดคุยระหว่างเล่นเกมผ่านแพลตฟอร์มอย่าง Discord หรือในเกมที่มีฟังก์ชัน Voice Chat
 - การประชุมออนไลน์
     - การประชุมผ่านแพลตฟอร์มที่ใช้ VoIP ช่วยให้สามารถสื่อสารเสียงและวิดีโอได้ในเวลาเดียวกัน เช่น การประชุมทางไกล
- 
+
+# แหล่งที่มา
+|[CISSP Glossary](https://www.isc2.org/certifications/cissp/cissp-student-glossary#v)|
+|Gartner|
+|ChatGPT|
+|Gemini|
   
 # Members
 - [6530200657 Thawanrat Phithak](https://TongYeh.github.io/voip)
