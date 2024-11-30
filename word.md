@@ -1,5 +1,5 @@
 # Voice over Internet Protocol (VoIP)
-> CISSP Glossary
+CISSP Glossary
 > Is a technology that allows you to make voice calls using a broadband internet connection instead of a regular (or analog) phone line.
 
 | ChatGPT  | Gemini |
