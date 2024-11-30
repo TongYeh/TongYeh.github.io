@@ -4,10 +4,10 @@
 Student at Kasetsart University Sriracha Campus
 
 ### Details
-Nickname: Tong
-Age: 21
-Major: Computer Science
-Hobbies: Reading, Seeing a moving
+Nickname: Tong|
+Age: 21|
+Major: Computer Science|
+Hobbies: Reading, Seeing a moving|
 
 ### Contact
 - 0849943955
