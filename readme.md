@@ -1,5 +1,5 @@
 # TongYeh.github.io 
-![Tong.png](./img1.jpg)
+![Tong.png](./image./img1.jpg)
 # Thawanrat Phithak
 Student at Kasetsart University Sriracha Campus
 
