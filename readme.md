@@ -1,6 +1,6 @@
 # TongYeh.github.io 
 ![Tong.jpg](./image/img1.jpg)
-# [Thawanrat Phithak]
+# [Thawanrat Phithak](https://github.com/TongYeh/TongYeh.github.io/tree/main)
 Student at Kasetsart University Sriracha Campus
 
 ### Details
