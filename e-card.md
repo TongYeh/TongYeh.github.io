@@ -3,3 +3,4 @@
 
 # Tools 🎁
 - [steganography](https://stylesuxx.github.io/steganography/)
+- [canva](https://www.canva.com/)
