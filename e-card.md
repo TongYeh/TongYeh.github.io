@@ -1,4 +1,4 @@
-# Merry Chistmas and Happy Newyear 2025 🤶
+# Merry Christmas and Happy Newyear 2025 🤶
 ![Tong-card](./image/6530200657.png) 
 
 # Tools 🎁
