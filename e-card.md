@@ -1,5 +1,5 @@
-# Merry Chistmas and Happy Newyear 2025 eiei
+# Merry Chistmas and Happy Newyear 2025 🤶
 ![Tong-card](./image/6530200657.png) 
 
-# Tools
-- 👽 [steganography](https://stylesuxx.github.io/steganography/)
+# Tools 🎁
+- [steganography](https://stylesuxx.github.io/steganography/)
