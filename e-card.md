@@ -1,5 +1,5 @@
 ## Merry Christmas and Happy New year 2025 🤶
-### 𓆙 I will you have a nice year 𓆙
+### 𓆙 Good luck throughout the year and beyond! 𓆙
 ![Tong-card](./image/6530200657_e-card.png) 
 
 # Tools 🎁
