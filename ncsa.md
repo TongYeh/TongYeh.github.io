@@ -23,7 +23,7 @@
 
 |ภาพบรรยากาศ 2            |  
 :-------------------------:|
-![intro.png](https://res.cloudinary.com/dzfeowrkg/image/upload/fl_preserve_transparency/v1737202295/CyberIMG3_r1lifz.jpg?_s=public-apps)
+![intro.png](https://res.cloudinary.com/dzfeowrkg/image/upload/fl_preserve_transparency/v1737202295/CyberIMG3_r1lifz.jpg?_s=public-apps) |
 
 |ภาพบรรยากาศ 3            |  
 :-------------------------:|
@@ -31,7 +31,7 @@
 
 |ภาพบรรยากาศ 4            |  
 :-------------------------:|
-![intro.png](https://res.cloudinary.com/dzfeowrkg/image/upload/fl_preserve_transparency/v1737202309/CyberIMG5_h7mzbq.jpg?_s=public-apps)
+![intro.png](https://res.cloudinary.com/dzfeowrkg/image/upload/fl_preserve_transparency/v1737202309/CyberIMG5_h7mzbq.jpg?_s=public-apps) |
 
 |รับชมวิดีโอคลิกที่ภาพ 📹🎞️        |
 :-------------------------:|
