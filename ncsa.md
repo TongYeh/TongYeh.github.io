@@ -17,24 +17,32 @@
 
 
 
-ภาพบรรยากาศ 1            |  ภาพบรรยากาศ 2
-:-------------------------:|:-------------------------:
-![intro.png](https://res.cloudinary.com/dzfeowrkg/image/upload/fl_preserve_transparency/v1737202295/CyberIMG2_yexwlp.jpg?_s=public-apps) |  ![intro.png](https://res.cloudinary.com/dzfeowrkg/image/upload/fl_preserve_transparency/v1737202295/CyberIMG3_r1lifz.jpg?_s=public-apps)
+|ภาพบรรยากาศ 1            |  
+:-------------------------:|
+![intro.png](https://res.cloudinary.com/dzfeowrkg/image/upload/fl_preserve_transparency/v1737202295/CyberIMG2_yexwlp.jpg?_s=public-apps) |  
 
-ภาพบรรยากาศ 3            |  ภาพบรรยากาศ 4
-:-------------------------:|:-------------------------:
-![intro.png](https://res.cloudinary.com/dzfeowrkg/image/upload/fl_preserve_transparency/v1737202295/CyberIMG4_uafhak.jpg?_s=public-apps) |  ![intro.png](https://res.cloudinary.com/dzfeowrkg/image/upload/fl_preserve_transparency/v1737202309/CyberIMG5_h7mzbq.jpg?_s=public-apps)
+ภาพบรรยากาศ 2            |  
+:-------------------------:|
+![intro.png](https://res.cloudinary.com/dzfeowrkg/image/upload/fl_preserve_transparency/v1737202295/CyberIMG3_r1lifz.jpg?_s=public-apps)
+
+ภาพบรรยากาศ 3            |  
+:-------------------------:|
+![intro.png](https://res.cloudinary.com/dzfeowrkg/image/upload/fl_preserve_transparency/v1737202295/CyberIMG4_uafhak.jpg?_s=public-apps) |  
+
+ภาพบรรยากาศ 4            |  
+:-------------------------:|
+![intro.png](https://res.cloudinary.com/dzfeowrkg/image/upload/fl_preserve_transparency/v1737202309/CyberIMG5_h7mzbq.jpg?_s=public-apps)
 
 |รับชมวิดีโอคลิกที่ภาพ 📹🎞️        |
 :-------------------------:|
 [![NCSA Challenge](https://img.youtube.com/vi/EG8Q1cCaP7M/maxresdefault.jpg)](https://youtu.be/EG8Q1cCaP7M?feature=shared) |
 
 # สมาชิก 👩🏻‍💻
-1. 👦🏻 Naphop Khumchawna -> [To Github Page](ncsa.md) 
-2. 🧕🏻 Onnicha Srisaman -> [To Github Page](ncsa.md) 
+1. 👦🏻 Naphop Khumchawna -> [To Github Page](https://nutnaphop.github.io/ncsa) 
+2. 🧕🏻 Onnicha Srisaman -> [To Github Page](https://momojoj.github.io/ncsa)
 3. 👸🏻 Thawanrat Phitak -> [To Github Page](ncsa.md) 
-4. 🧕🏻 Habibah Masae -> [To Github Page](ncsa.md) 
-5. 👧🏻 Boonphitak Phompetch -> [To Github Page](ncsa.md) 
-6. 👩🏻 Phetcharat Thongluan -> [To Github Page](ncsa.md) 
+4. 🧕🏻 Habibah Masae -> [To Github Page](https://chocokorn.github.io/ncsa) 
+5. 👧🏻 Boonphitak Phompetch -> [To Github Page](https://mrzcrocodile.github.io/ncsa) 
+6. 👩🏻 Phetcharat Thongluan -> [To Github Page](https://nibkekie.github.io/ncsa)
 
 ◀  [Back to Main Page](README.md)
