@@ -45,4 +45,4 @@
 5. 👧🏻 Boonphitak Phompetch -> [To Github Page](https://mrzcrocodile.github.io/boardgame) 
 6. 👩🏻 Phetcharat Thongluan -> [To Github Page](https://nibkekie.github.io/boardgame)
 
-◀  [Back to Main Page](README.md)
+◀  [Back to Main Page](readme.md)
