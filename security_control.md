@@ -1,6 +1,6 @@
 ## Security Control
 
-![Tong-card](./image/6530200657_securitycontrol.jpg) 
+![Tong-card](./image/securitycontrol.png) 
 
 ## สแกนลายนิ้วมือเพื่อเข้าถึงโทรศัพท์ (MFA)
 ##### Type of Security Controls: Technical Controls
