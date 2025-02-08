@@ -1,10 +1,10 @@
 # 2.8.7 One Time Verifier
 
-| 2.8.7 One Time Verifier |
+| [2.8.7 One Time Verifier](https://owasp.org/www-project-application-security-verification-standard/) |
 | ----------- |
 | Verify that biometric authenticators are limited to use only as secondary factors in conjunction with either something you have and something you know.      | 
 
-|   Chat GPT | Gemini |
+|   [Chat GPT](https://chatgpt.com/) | [Gemini](http://gemini.google.com/app?hl=th) |
 | -------- | ------- |
 |ตรวจสอบให้แน่ใจว่าตัวตรวจสอบความถูกต้องทางชีวภาพถูกจำกัดให้ใช้เป็นปัจจัยรองเท่านั้น โดยต้องใช้ร่วมกับบางสิ่งที่คุณมีและบางสิ่งที่คุณรู้  | ตรวจสอบว่าตัวตรวจสอบไบโอเมตริกซ์ถูกจำกัดให้ใช้เป็นปัจจัยรองเท่านั้น โดยใช้ร่วมกับสิ่งที่คุณมีและสิ่งที่คุณรู้    |
 
